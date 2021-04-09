@@ -1,0 +1,75 @@
+[
+    {
+        "image": "../source/song_1.jpg",
+        "audioSrc": "../source/song_1.mp3",
+        "name": "说好不哭（with 五月天阿信）",
+        "album": "说好不哭（with 五月天阿信）",
+        "singer": "周杰伦",
+        "duration": 222,
+        "isLike": true
+    },
+    {
+        "image": "../source/song_2.jpg",
+        "audioSrc": "../source/song_2.mp3",
+        "name": "告别气球（live）",
+        "album": "周杰伦地表最强演唱会",
+        "singer": "周杰伦",
+        "duration": 264,
+        "isLike": false
+    },
+    {
+        "image": "../source/song_3.jpg",
+        "audioSrc": "../source/song_3.mp3",
+        "name": "听见下雨的声音",
+        "album": "哎哟，不错哦",
+        "singer": "周杰伦",
+        "duration": 279,
+        "isLike": false
+    },
+    {
+        "image": "../source/song_4.jpg",
+        "audioSrc": "../source/song_4.mp3",
+        "name": "搁浅（live）",
+        "album": "周杰伦 2004 无与伦比演唱会 live CD",
+        "singer": "周杰伦",
+        "duration": 261,
+        "isLike": false
+    },
+    {
+        "image": "../source/song_5.jpg",
+        "audioSrc": "../source/song_5.mp3",
+        "name": "枫",
+        "album": "十一月的萧邦",
+        "singer": "周杰伦",
+        "duration": 275,
+        "isLike": true
+    },
+    {
+        "image": "../source/song_6.jpg",
+        "audioSrc": "../source/song_6.mp3",
+        "name": "世界未末日",
+        "album": "惊叹号",
+        "singer": "周杰伦",
+        "duration": 263,
+        "isLike": false
+    },
+    {
+        "image": "../source/song_7.jpg",
+        "audioSrc": "../source/song_7.mp3",
+        "name": "蒲公英的约定（live）",
+        "album": "2007世界巡回演唱会",
+        "singer": "周杰伦",
+        "duration": 252,
+        "isLike": false
+    },
+    {
+        "image": "../source/song_8.jpg",
+        "audioSrc": "../source/song_8.mp3",
+        "name": "最后的战役（live）",
+        "album": "周杰伦摩天轮世界巡回演唱会",
+        "singer": "周杰伦",
+        "duration": 249,
+        "isLike": false
+    }
+
+]
